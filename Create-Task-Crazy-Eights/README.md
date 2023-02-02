@@ -1,4 +1,4 @@
-DON'T SHARE OR MAKE PUBLIC THIS PROJECT. Project for the 2020 - 2021 AP Computer Science Principles Exam. Accounts for 30% of exam score along with 70 multiple choice questions accounting for remaining 70%.
+Project for the 2020 - 2021 AP Computer Science Principles Exam. Accounts for 30% of exam score along with 70 multiple choice questions accounting for remaining 70%.
 
 Exam Information:
 
